@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient( rgb(255, 255, 255), rgb(255, 0, 238));;
+}
+header{
+    justify-content:center;
+    display: flex;
+    align-content: space-between;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-items: center;
+color: black;
+  }
+.skill1{
+    justify-items:center;
+    display: inline-flex;
+    align-content: space-between;
+  }
+.skill2{
+    justify-items:center;
+    display: inline-flex;
+    align-content: space-between;
+  }
+.skill3{
+    justify-items:center;
+    display: inline-flex;
+    align-content: space-between;
+}
+.hover{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+  }
